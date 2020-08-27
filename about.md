@@ -1,25 +1,25 @@
 ---
 layout: page
-title: About This Theme
-description: About the Lightspeed jekyll theme
+title: About me
+description: About the Dalida Yerkuliyeva. Hint: Thats me!
 ---
 
-Some fun facts about the theme include:
+Some facts about :
 
-* Perfect score on Google's Lighthouse audit
-* Only ~434 bytes of CSS
-* No media queries
-* No JavaScript
-* Probably the fastest Jekyll theme on the Internet <sup>1</sup>
+* Imperial college alumni
+* Ex-KPMG
+* Currently Senior Consultant at EY
+* Speaker at multiple sustainability conferences, author of education courses
+* Number 1 daughter in the world <sup>1</sup>
 
-## Who Made This
+## If you want to know more
 
-I'm Bradley Taunt, a designer/developer hybrid. 
+I'm Dalida, a senior consultant at EY. 
 
-My passion lies in implementing minimal CSS, with a focus on accessibility and web performance. This theme started as an experiment to see how much could be stripped away from a website, while still maintaining clean and readable content.
+My passion lies in driving sustainability, people management, data analytics. In my free time I write education courses, volunteer and do hiking.
 
-Have questions or suggestions? Feel free to hit me up on [Twitter](https://twitter.com/bradtaunt).
+Want to know more? Feel free to hit me up on [Twitter](https://twitter.com/DalidaYRK).
 
-Interested in some of my other open source projects? Check out my [portfolio](https://bradleytaunt.com).
+Interested in some of my past work? Check out my [LinkedIn](LINK).
 
-<sup>1</sup> <small>[And I base that on absolutely nothing...](https://pbs.twimg.com/media/DtZUpV7WsAAfkeB.jpg)</small>
+<sup>1</sup> <small>According to my mum...</small>
