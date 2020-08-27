@@ -1,16 +1,10 @@
-# Light Speed
+# Dalidas personal website
 
-An insanely fast and performance-based Jekyll theme. Some fun facts about the theme:
-
-* Perfect score on Google's Lighthouse audit
-* Only ~434 bytes of CSS
-* No media queries
-* No JavaScript
-* Probably the fastest Jekyll theme on the Internet
+I update this whenever I am waiting for my coffee to brew
 
 -----
 
-## Author
+## Author of the website theme
 
 **Bradley Taunt**
 - <https://github.com/bradleytaunt>
