@@ -4,7 +4,7 @@ title: About me
 description: About the Dalida Yerkuliyeva. Hint: Thats me!
 ---
 
-Some facts about :
+Some facts about me:
 
 * Imperial college alumni
 * Ex-KPMG
